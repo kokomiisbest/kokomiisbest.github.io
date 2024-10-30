@@ -21,13 +21,13 @@ repository               : "kokomiisbest/kokomiisbest.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "kokomi.png"
   name             : "Xin Chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Nanjing"
   employer         : "Southeast University"
-  uri              : https://kokomiisbest.github.io/
+  uri              : "https://kokomiisbest.github.io/"
   email            : "1367433906@qq.com" 
 
   # Academic websites
